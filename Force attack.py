@@ -1,6 +1,5 @@
 import hashlib
 import itertools
-import datetime
 
 var = "" #Enter hash
 
